@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "PARIWAAR3.aternos.me",
-    "port": 48522,
+    "ip": "PARIWAAR2.aternos.me",
+    "port": 56338,
     "version": "",
     "try-creative": false
   },
